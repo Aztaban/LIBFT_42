@@ -67,3 +67,7 @@ Compile with:
 gcc main.c -L. -lft
 ```
 💡 Note: This command is for testing libft.a in your own programs. The library itself must be compiled using make or make bonus as required by the 42 school project rules.
+
+## 👤 Author
+
+[Martin Justa](https://github.com/aztaban)
